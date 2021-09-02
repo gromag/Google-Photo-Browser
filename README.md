@@ -11,7 +11,7 @@ In fact, it often does not match the exact date but it does some fuzzy maching, 
 As an example, searching for 21/11/2019 might return media items from 21/06/2019 by matching  only the day part and not the exact date)
 
 
-This project is a quick and dirty workaround to search photos by exact date, nothing fancy, just provides an ability to do date searches on Google Photos.
+This project is a workaround to search photos by exact date, nothing fancy, just provides an ability to do date searches on Google Photos.
 
 Preview: https://gromag.github.io/googlephotobrowser/
 
